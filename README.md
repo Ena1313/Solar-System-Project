@@ -38,13 +38,14 @@ Testiranje je obuhvatilo:
 •	SVG
 
 ## Upute za Postavljanje
-1.	Klonirajte repozitorij projekta na vaše računalo.
-2.	Otvorite projekt u vašem omiljenom editoru koda.
-3.	Otvorite index.html datoteku u web pregledniku (možda će biti potrebno koristiti Live Server radi pravilnog prikaza grafova)
+1.	Klonirati repozitorij projekta na vaše računalo ili skinuti cijeli folder "VIZ PROJEKT".
+2.	Otvoriti folder "VIZ PROJEKT" u Visual Studio Code-u ili nekom drugom editoru koda.
+3.	Otvoriti index.html datoteku u web pregledniku (potrebno koristiti Live Server radi pravilnog prikaza grafova)
+4.	Za pokretanje sa Live Serverom napraviti desni klik na index.html datoteku i kliknuti opciju "Open with Live Server"
 
 ## Upute za Korištenje
 1.	Pokrenite index.html datoteku u web pregledniku.
-2.	Koristite gumbe za zaustavljanje “Stop animation”, ponovno pokretanje “Start animation” i resetiranje animacije “Reset animation”.
+2.	Koristite gumb za zaustavljanje “Stop animation”, ponovno pokretanje “Start animation” i resetiranje animacije “Reset animation”.
 3.	Kliknite na bilo koju planetu da biste vidjeli detaljne informacije o njoj.
 4.	Koristite funkcionalnosti zumiranja i pomicanja za bolje pregledavanje sustava.
 5.	Kliknite na gumbove za prikaz grafova o planetima i satelitima
